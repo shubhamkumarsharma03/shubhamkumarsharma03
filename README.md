@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamkumarsharma03
 - 👀 I’m interested in Data structure and algorithm
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me through mail
 - 😄 Pronouns: He/His
