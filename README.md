@@ -8,7 +8,7 @@
 ---
 
 # 💫 About Me:
-🎓 B.Tech IT Student @ Engineering College Ajmer<br>💡 Currently learning Data Structures & Algorithms in Java<br>🔭 Working on a Student Management System using Java + MySQL<br>🌱 Exploring Flutter for cross-platform app development<br>🏆 Recently secured 3rd place in CODEWAR (competitive coding contest)<br>💬 Ask me about Java, OOPs, MySQL or Git
+🎓 B.Tech IT Student @ Engineering College Ajmer<br>💡 Currently learning Data Structures & Algorithms in Java<br>🔭 Working on a Student Management System using Java + MySQL<br>🌱 Exploring Spring Boot <br>🏆 Recently secured 3rd place in CODEWAR (competitive coding contest)<br>💬 Ask me about Java, OOPs, MySQL or Git
 
 
 ## 🌐 Socials:
@@ -27,4 +27,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shubhamkumarsharma03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
