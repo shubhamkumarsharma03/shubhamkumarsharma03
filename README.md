@@ -264,8 +264,6 @@ const shubham = {
   <img src="https://raw.githubusercontent.com/shubhamkumarsharma03/shubhamkumarsharma03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> ⚙️ *Enable the snake by adding [this GitHub Action](https://github.com/Platane/snk) to your profile repo — takes 2 mins!*
-
 ---
 
 <div align="center">
